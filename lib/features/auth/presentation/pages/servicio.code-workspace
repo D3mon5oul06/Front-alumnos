@@ -1,0 +1,47 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../Documents/API-Scala"
+		},
+		{
+			"path": "../../../../../../../Documents/Desarrollo web"
+		},
+		{
+			"path": "../../../../../../ApiRed"
+		},
+		{
+			"path": "../../../../../../../Documents/Desarrollo web/RESPONSIVE"
+		},
+		{
+			"path": "../../../../../../../Documents/ProyectoWeb/frontApi"
+		},
+		{
+			"path": "../../../../../../../Documents/ProyectoBiblioteca/ApiBiblioteca"
+		},
+		{
+			"path": "../../../../../../../Documents/inventario"
+		},
+		{
+			"path": "../../../../../../product-card"
+		},
+		{
+			"path": "../../../../../../inv"
+		},
+		{
+			"path": "../../../../../../../Documents/Tarea"
+		},
+		{
+			"path": "../../../../../../Api_Web-master"
+		},
+		{
+			"path": "../../../../.."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"files.watcherExclude": {
+			"**/target": true
+		},
+		"liveServer.settings.multiRootWorkspaceName": "responsive-card-hover-effects"
+	}
+}
